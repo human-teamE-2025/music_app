@@ -1,7 +1,3 @@
-/**
- * 
- */
-
 
 document.querySelectorAll('.expand-button').forEach(button => {
     button.addEventListener('click', function() {

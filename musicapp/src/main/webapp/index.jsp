@@ -148,9 +148,240 @@
             </div>
             <button class="button right">&#9654;</button>
         </article>
-        <article>
-            아티클 2: 독립된 콘텐츠 블록
-        </article>
+<article>
+    <div class="collection">
+        <h3>#컨셉</h3>
+		
+        <div class="song-list">
+		
+            <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+            </div>
+			
+			            <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+
+            </div>
+							        <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+            </div>
+			
+										        <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+            </div>
+            <!-- 다른 노래 아이템들 -->
+        </div>
+    </div>
+	
+	  <div class="collection">
+        <h3>#오늘의</h3>
+		
+        <div class="song-list">
+		
+            <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+            </div>
+			
+			            <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+
+            </div>
+							        <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+            </div>
+			
+										        <div class="song-item">
+                <div class="song-img">
+                    <img src="favicon.png" alt="Song 1">
+                </div>
+                <div class="song-info">
+                    <div class="info-row">
+                        <span><strong>작성자:</strong> John Doe</span>
+                        <span><strong>추천수:</strong> 120</span>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>노래제목:</strong> Song Title 1</span>
+                        <span><strong>게시일:</strong> 2 days ago</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="share-btn">공유</button>
+                        <div class="thumb-buttons">
+                            <button class="thumb-up">추천</button>
+                            <button class="thumb-down">비추천</button>
+                            <span class="thumb-count">120</span>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <span><strong>댓글수:</strong> 32</span>
+                    </div>
+                </div>
+            </div>
+            <!-- 다른 노래 아이템들 -->
+        </div>
+    </div>
+</article>
+
     </section>
 
 <aside class="right-section">
@@ -226,3 +457,4 @@
 </script>
 </body>
 </html>
+
